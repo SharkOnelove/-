@@ -12,5 +12,6 @@ messages = [
 # วนลูปเพื่อแสดงข้อความและหน่วงเวลา สำคัญห้ามเเก้ไข
 for message, delay in messages:
     print(message)
+    print()
     time.sleep(delay) #ฟังชั่นหน่วงเวลา
 
