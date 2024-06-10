@@ -4,5 +4,8 @@
 
 1 ดาวโหลด py บนเว็บไซต์
 https://www.python.org/downloads/
+
 2 ติดตั้งให้เรียบร้อย 
+
 3 เปิด cmd พิมพ์คำสั่ง python python.py
+
